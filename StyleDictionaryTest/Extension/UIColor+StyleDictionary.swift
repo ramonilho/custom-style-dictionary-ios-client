@@ -8,5 +8,5 @@ import StyleDictionary
 
 /// Retrieves
 public func getStyleColor(_ name: StyleDictionaryColorName) -> UIColor {
-    return UIColor.styleDictionaryColor(name)
+    return StyleDictionaryColor.color(name)
 }
