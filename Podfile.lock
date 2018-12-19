@@ -1,0 +1,21 @@
+PODS:
+  - StyleDictionary (0.1.0)
+
+DEPENDENCIES:
+  - StyleDictionary (from `https://github.com/ramonilho/style-dictionary-pod-test`)
+
+EXTERNAL SOURCES:
+  StyleDictionary:
+    :git: https://github.com/ramonilho/style-dictionary-pod-test
+
+CHECKOUT OPTIONS:
+  StyleDictionary:
+    :commit: a20488e4ef28a150acb3934ce5d8d1d710093b13
+    :git: https://github.com/ramonilho/style-dictionary-pod-test
+
+SPEC CHECKSUMS:
+  StyleDictionary: 8db49ccfc0bb0865d76f74903ed3a734e71d1514
+
+PODFILE CHECKSUM: 83c83b1b53ce7e39db15d35ec784117d282f1815
+
+COCOAPODS: 1.5.3
