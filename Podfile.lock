@@ -1,22 +1,22 @@
 PODS:
-  - StyleDictionary (0.1.0)
+  - CetusDesignToken (0.1.11)
 
 DEPENDENCIES:
-  - StyleDictionary (from `https://github.com/ramonilho/custom-style-dictionary`, tag `0.1.0`)
+  - CetusDesignToken (from `https://github.com/miraeducation/0101-ds`, tag `0.1.11`)
 
 EXTERNAL SOURCES:
-  StyleDictionary:
-    :git: https://github.com/ramonilho/custom-style-dictionary
-    :tag: 0.1.0
+  CetusDesignToken:
+    :git: https://github.com/miraeducation/0101-ds
+    :tag: 0.1.11
 
 CHECKOUT OPTIONS:
-  StyleDictionary:
-    :git: https://github.com/ramonilho/custom-style-dictionary
-    :tag: 0.1.0
+  CetusDesignToken:
+    :git: https://github.com/miraeducation/0101-ds
+    :tag: 0.1.11
 
 SPEC CHECKSUMS:
-  StyleDictionary: f41e8cf583e6292628af89e99ce24a95dc7c8d9f
+  CetusDesignToken: c79bc4517a5adbbf9a7189a55835f56a709c9a02
 
-PODFILE CHECKSUM: e838ede414a2e3d0af01360094f92b62805cea61
+PODFILE CHECKSUM: fe4b82e92650e4b96ae23e9a696f6d154303762b
 
 COCOAPODS: 1.5.3

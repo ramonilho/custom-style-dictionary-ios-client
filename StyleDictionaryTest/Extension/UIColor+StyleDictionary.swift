@@ -4,9 +4,9 @@
 //
 
 import UIKit
-import StyleDictionary
+import CetusDesignToken
 
 /// Retrieves
-public func getStyleColor(_ name: StyleDictionaryColorName) -> UIColor {
-    return StyleDictionaryColor.color(name)
+public func getStyleColor(_ name: CetusDictionaryColorName) -> UIColor {
+    return CetusDictionaryColor.color(name)
 }
